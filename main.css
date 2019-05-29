@@ -1,0 +1,272 @@
+<
+  :root {
+    
+    /* add code below */
+    
+    /* add code above */
+  }10
+body {
+	margin: -29px 20px 0 5px;
+	background: white;
+	text-decoration: none;
+}
+header {
+	background: #e0d211;
+	background: linear-gradient(60deg, blue, yellow, rgb(255, 255, 255));
+	background-image: url('photos/granite6.jpg');
+	background-repeat: no-repeat;
+	background-size: 150%;
+	text-align: center;
+
+
+	
+
+}
+
+header h1 {
+	margin: -30px;
+	font-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+	padding-bottom: 15px;
+	font-size: 54px;
+
+	
+
+}
+h1 em {
+	color: #E6FBFF;
+	
+
+}
+h2 {
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+	color: black;
+	text-align: center;
+	font-size: 35px;
+	margin-top: -10px;
+	
+
+}
+.header-h1 {
+	color: black;
+	font-family: 'Kumar One', cursive;
+
+}
+.wrapper {
+	background-image: url('photos/stone1.jpg');
+	background-repeat: no-repeat;
+	background-size: 150%;
+	margin-left: 5px;
+	border: solid;
+	border-width: 5px;
+	text-align: justify;
+	padding: 4px;
+	width: 98%;
+	text-align: center;
+	
+	border-color: #838996;
+	box-shadow: 0px 0px 10px 2px black;
+
+
+	
+
+}
+
+nav ul {
+	margin: 0;
+	display: inline;
+
+
+
+}
+nav ul li {
+	
+	list-style-type: none;
+	
+	color: blue;
+	
+
+
+
+
+}
+nav ul li a {
+	margin-top: 10px;
+	float: left;
+	border: none;
+
+
+
+}
+.nav-button-wrapper {
+	background: none;
+	text-align: inline-table;
+
+
+}
+footer {
+	background: white;
+	padding: 10px;
+	color: black;
+	
+}
+p {
+	background: #EEEEEE;
+	padding: 10px;
+
+
+
+
+}
+.heading {
+	color: blue;
+	font-size: 20px;
+
+
+
+
+}
+.col {
+	display: inline-flex; 
+	padding: 150px;
+	font-size: 50px;
+	color: black;
+
+
+}
+.box {
+	border-style: none;
+    border-color: #0762f4;
+    border-width: 2px;
+    margin: 0px; 
+
+}
+.contact {
+	border-style: solid;
+    border-color: black;
+
+}
+div ul li {
+	margin: 5px;
+	padding: 0px;
+	font-family: 'Abril Fatface', cursive;
+	display: inline-grid;
+	
+}
+div p {
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	border-style: solid;
+	border-color: white;
+	border-width: 2px;
+	border-radius: 10px;
+	display: inline-block;
+	background: linear-gradient(60deg, blue, yellow, rgb(255, 255, 255));
+	background-image: url('photos/granite6.jpg');
+	font-style: bold;
+	font-size: 22px;
+
+
+}
+
+
+
+.nav-button li {
+	text-align: center;
+	display: inline-table;
+	margin: 65px;
+	text-decoration: none;
+	color: green;
+
+
+
+
+}
+.nav-button:hover {
+	transform: scale(1.1);
+
+}
+.header-h1 {
+	text-transform: uppercase;
+}
+#background-image .wraper {
+
+	display: inline-flex;
+	
+	
+
+
+}
+.granite-background-image {
+	border: 10px solid white;
+	width: 22.8%;
+	height: 365px;
+	padding: 0px;
+	margin: 4px;
+	box-shadow: 0px 0px 10px 2px black;
+	font-family: Abril Fatface, calibri;
+	background-image: url('photos/granite4.jpg');
+	background-size: cover;
+	text-align: center;
+
+
+
+}
+.quartz-background-image {
+	border: 10px solid white;
+	width: 22.8%;
+	height: 365px;
+	padding: 0px;
+	margin: 4px;
+	box-shadow: 0px 0px 10px 2px black;
+	font-family: Abril Fatface, calibri;
+	background-image: url('photos/quartz1.jpg');
+	background-size: cover;
+	text-align: center;
+}
+.onyx-background-image {
+	border: 10px solid white;
+	width: 22.8%;
+	height: 365px;
+	padding: 0px;
+	margin: 4px;
+	box-shadow: 0px 0px 10px 2px black;
+	font-family: Abril Fatface, calibri;
+	background-image: url('photos/white-onyx1.png');
+	background-size: cover;
+	text-align: center;
+}
+.marble-background-image {
+	border: 10px solid white;
+	width: 22.8%;
+	height: 365px;
+	padding: 0px;
+	margin: 4px;
+	box-shadow: 0px 0px 10px 2px black;
+	font-family: Abril Fatface, calibri;
+	background-image: url('photos/marble1.jpg');
+	background-size: cover;
+	text-align: center;
+}
+
+
+div .services-wrapper {
+	margin-left: -30px;
+}
+
+.services .services-wrapper ul li {
+	background: rgb(238,174,202);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+	background-image: radial-gradient(circle, lightgray 0%, #888 100%);
+	border: solid;
+	display: inline-grid;
+	font-size: 25px;
+	margin: none;
+
+
+
+}
+.row {
+	margin: 0 0 0 -30px;
+}
+.home-button {
+	font-size: 14px;
+}
